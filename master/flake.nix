@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-nimrdkafka-master.flake = false;
+  inputs.src-nimrdkafka-master.ref   = "refs/heads/master";
   inputs.src-nimrdkafka-master.owner = "dfdeshom";
-  inputs.src-nimrdkafka-master.ref   = "master";
   inputs.src-nimrdkafka-master.repo  = "nimrdkafka.git";
   inputs.src-nimrdkafka-master.type  = "github";
   
