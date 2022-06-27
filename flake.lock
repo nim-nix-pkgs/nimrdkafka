@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653702165,
-        "narHash": "sha256-3xBdOGFXSxDEOB/BJFRp0257ttSH3m8n2aMnvt3Iwbk=",
+        "lastModified": 1656297935,
+        "narHash": "sha256-4rZczjZROTU+ZR6uEV6MgwE+y/DqkNSIGfV3HZoT1x0=",
         "owner": "nim-nix-pkgs",
         "repo": "nimrdkafka",
-        "rev": "856d6393847fb3d30a5fbe6f89699129a89b69e3",
+        "rev": "8200edb12e4a83e200edeb24cb47b9d5bc4c41d3",
         "type": "github"
       },
       "original": {
